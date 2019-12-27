@@ -5,12 +5,10 @@
 @@||ebates.com*$document
 @@||rakuten.com*$document
 @@||rakuten.ca*$document
-@@||fatwallet.com*$document
 !
 @@||ebates.com*$elemhide
 @@||rakuten.com*$elemhide
 @@||rakuten.ca*$elemhide
-@@||fatwallet.com*$elemhide
 !
 @@||optimizely.com*$domain=ebates.com|rakuten.ca|ebates.|fatwallet.com
 !
@@ -30,9 +28,5 @@
 @@||service.bfast.com^*
 @@||www.qksrv.net^*
 @@||www.jdoqocy.com^*
-@@||www.kqzyfj.com^*
-@@||www.dpbolvw.net^*
-@@||www.tkqlhce.com^*
 @@||www.anrdoezrs.net^*
 @@||www.commission-junction.com^*
-@@||linksynergy.com^*
