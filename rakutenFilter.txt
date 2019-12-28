@@ -5,26 +5,6 @@
 @@||ebates.com*$document
 @@||rakuten.com*$document
 @@||rakuten.ca*$document
-!
-@@||ebates.com*$elemhide
-@@||rakuten.com*$elemhide
-@@||rakuten.ca*$elemhide
-!
-@@||optimizely.com*$domain=ebates.com|rakuten.ca|ebates.|fatwallet.com
-!
-@@||fatwallet.com^*$script
-@@||fatwallet.com^*$image
-@@||fatwallet.com^*$xmlhttprequest
-@@||ecbsn.com^*$script
-@@||ecbsn.com^*$image
-@@||ecbsn.com^*$xmlhttprequest
-@@||bfads.net^*$script
-@@||bfads.net^*$image
-@@||bfads.net^*$xmlhttprequest
-! Cash Back Trackers
-@@||ebates.com^*
-@@||ebates.com^*$~third-party
-@@||rakuten.com^*$~third-party
 @@||service.bfast.com^*
 @@||www.qksrv.net^*
 @@||www.jdoqocy.com^*
